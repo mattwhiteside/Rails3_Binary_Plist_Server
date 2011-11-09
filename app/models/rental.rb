@@ -1,0 +1,2 @@
+class Rental < Dwelling
+end

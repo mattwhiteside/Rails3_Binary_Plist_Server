@@ -1,0 +1,1 @@
+This is a sketch of a Rails 3 app that crawls craigslist apartment listings, geocodes them, stores them in postgresql, and serves this data in binary plist format to iOS clients.

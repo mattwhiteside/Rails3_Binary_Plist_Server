@@ -1,0 +1,2 @@
+class Sale < Dwelling
+end
